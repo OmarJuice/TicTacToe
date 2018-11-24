@@ -1,2 +1,3 @@
-#TicTacToe
-Basic Tic Tac Toe with vanilla JS, HTML5, and CSS3.
+# TicTacToe
+
+Basic Tic Tac Toe with JavaScript, HTML5, and CSS3.
