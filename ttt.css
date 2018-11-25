@@ -86,6 +86,12 @@ button{
     color: black;
     align-self: center;
 }
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 5s;
+}
 #play{
     text-align: center;
     margin-top: 20px;
@@ -115,4 +121,9 @@ button{
 #Play{
     height: 40px;
     width: 80px;
+}
+@media only screen and (max-width: 768px){
+    #Play, #Reset{
+        background-color: aliceblue;
+    }
 }
